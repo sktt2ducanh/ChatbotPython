@@ -9,3 +9,5 @@ if st.button("Dang nhap"):
         st.success("Dang nhap thanh cong")
     else:
         st.error("Sai tk mk")
+
+pass3 = st.text_input("pass cap 2")
